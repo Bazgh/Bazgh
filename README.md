@@ -3,8 +3,8 @@
 🎓 MSc student in AI in Medicine @ University of Bern  
 🧠 Researching Physics-Informed Neural Networks (PINNs) for healthcare  
 🔬 Interested in physics-informed Graph Neural Networks (GNNs)
+
 👀 Curious about Causal learning and how it can disentangle data channels
-🔬 Interested in physics-informed Graph Neural Networks (GNNs)
 
 ## 🔍 Interests
 - AI in healthcare
